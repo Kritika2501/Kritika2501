@@ -1,0 +1,18 @@
+<html>
+<head>
+<title>Favorite Books</title>
+</head>
+<body style="background-color:lightpink;">
+<h1><strong>Favorite Books</strong></h1>
+<p>
+<br><b><h2>BOOK-1:</h2>
+<img scr="C:\Users\hp\Desktop\kritika\book1.jpeg" > <br> And Then There Were None by Agatha Christie:</b></br>
+This chilling novel is often cited as a favorite, featuring ten strangers stranded on an island who are picked off one by one. 
+<br><b><h2>BOOK-2:</h2>
+<img scr="C:\Users\hp\Desktop\kritika\book2.jpeg">  Murder on the Orient Express by Agatha Christie:</b></br>
+Another iconic story featuring detective Hercule Poirot, this classic involves a complex murder on a luxury train. 
+<br><b><h2>BOOK-3:</h2> The Hound of the Baskervilles by Arthur Conan Doyle:</b></br>
+A well-loved Sherlock Holmes story known for its atmospheric setting and suspenseful plot.
+</p>
+</body>
+</html>
