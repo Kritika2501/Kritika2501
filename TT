@@ -1,0 +1,75 @@
+<!doctype html>
+<html>
+<head>
+<title> Timetable </title>
+<body>
+<table border='4'>
+<caption>B.Sc.LL.B.(hons.)-3rd SEM</caption>
+<tr>
+<th>Day/Time</th>
+<th>09:30-10:30</th>
+<th>10:30-11:30</th>
+<th>11-30-12:30</th>
+<th>12:30-01:30</th>
+<th>01:30-02:30</th>
+<th>20:30-03:30</th>
+<th>03:30-04:30</th>
+</tr>
+<tr>
+<td>Monday</td>
+<td>OSC Theory</td>
+<td>Contract 1</td>
+<td>Family Law 1</td>
+<td>Lunch</td>
+<td>Contract 1</td>
+<td>Const 1</td>
+<td>Moot Court</td>
+</tr>
+<tr>
+<td>Tuesday</td>
+<td>Consti 1</td>
+<td>Law of Crimes 1</td>
+<td>Family Law 1</td>
+<td>Lunch</td>
+<td>OS Theory</td>
+<td>OSC Lab</td>
+<td>OSC Lab</td>
+</tr>
+<tr>
+<td>Wednesday</td>
+<td>Web Programming Lab</td>
+<td>Web Programming Lab</td>
+<td>Web Programming Theory</td>
+<td>Lunch</td>
+<td>Contract 1</td>
+<td>Law of Crimes 1</td>
+<td>Contract 1</td>
+</tr>
+
+<tr>
+<td>Thursday</td>
+<td>Law of Crimes 1</td>
+<td>Library</td>
+<td>Consti 1</td>
+<td>Lunch</td>
+<td>Family Law 1</td>
+<td>Web Programming Lab</td>
+<td>Web Programming Lab</td>
+</tr>
+
+<tr>
+<td>Friday</td>
+<td>Consti 1</td>
+<td>Web Programming Theory</td>
+<td>Family Law 1</td>
+<td>Lunch</td>
+<td>Law of Crimes 1</td>
+<td>OSC Lab</td>
+<td>OSC Lab</td>
+</tr>
+</table>
+</body>
+</html>
+
+
+
