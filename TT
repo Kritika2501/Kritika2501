@@ -2,8 +2,16 @@
 <html>
 <head>
 <title> Timetable </title>
+<style>
+table{
+border-collapse: collapse;
+width:100%;
+background-color:lightblue;
+}
+</style>
+</head>
 <body>
-<table border='4' Background='lightblue' text-align:center Padding: 10px>
+<table border='4'>
 <caption>B.Sc.LL.B.(hons.)-3rd SEM</caption>
 <tr>
 <th>Day/Time</th>
@@ -12,7 +20,7 @@
 <th>11-30-12:30</th>
 <th>12:30-01:30</th>
 <th>01:30-02:30</th>
-<th>20:30-03:30</th>
+<th>02:30-03:30</th>
 <th>03:30-04:30</th>
 </tr>
 <tr>
@@ -70,6 +78,7 @@
 </table>
 </body>
 </html>
+
 
 
 
