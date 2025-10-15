@@ -3,7 +3,7 @@
 <head>
 <title> Timetable </title>
 <body>
-<table border='4'>
+<table border='4' Background='lightblue' text-align:center Padding: 10px>
 <caption>B.Sc.LL.B.(hons.)-3rd SEM</caption>
 <tr>
 <th>Day/Time</th>
