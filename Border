@@ -1,53 +1,31 @@
+<!doctype html>
+<html>
+<head>
+<title> Borders </title>
+<style>
 .box {
-
 width: 200px;
-
 padding: 20px;
-
 margin: 20px;
-
-text-align: center;
-
-.solid {
-
-border: 3px solid red;
-
-.dashed { 1 border: 3px dashed violet;
-
-dotted [
-
-} border: 3px dotted yellow;
-
-double ( } border: 5px double green;
-
-} groove { border: 5px groove silver;
-
-ridge ( border: 5px ridge black;
-
-} Inset { border: 5px inset grey;
-
-outset { border: 5px outset brown;
-
+text-align: center;}
+.solid {border: 5px solid red;}
+.dashed {border: 5px dashed violet;}
+.dotted {border: 5px dotted yellow;}
+.double {border: 5px double green;}
+.groove {border: 5px groove silver;}
+.ridge {border: 5px ridge black;}
+.inset { border: 5px inset grey;}
+.outset { border: 5px outset brown;}
 </style>
-
 </head>
-
 <body>
-
 <div class="box solid">Solid Border</div>
-
 <div class="box dashed">Dashed Border</div>
-
 <div class="box dotted">Dotted Border</div>
-
 <div class="box double">Double Border</div>
-
-<div class="hox groove">Groove Border</div>
-
-<div class="box ridge Ridge Border</div>
-
+<div class="box groove">Groove Border</div>
+<div class="box ridge">Ridge Border</div>
 <div class="box inset">Inset Border</div>
-
 <div class="box outset">Outset Border</div>
-
-</body> </html>
+</body>
+</html>
